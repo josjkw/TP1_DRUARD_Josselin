@@ -1,0 +1,6 @@
+/Users/druardjosselin/Desktop/TP1_DRUARD_Josselin/TP1_DRUARD_Josselin/bin/Debug/TP1_DRUARD_Josselin.exe
+/Users/druardjosselin/Desktop/TP1_DRUARD_Josselin/TP1_DRUARD_Josselin/bin/Debug/TP1_DRUARD_Josselin.pdb
+/Users/druardjosselin/Desktop/TP1_DRUARD_Josselin/TP1_DRUARD_Josselin/obj/Debug/TP1_DRUARD_Josselin.csproj.AssemblyReference.cache
+/Users/druardjosselin/Desktop/TP1_DRUARD_Josselin/TP1_DRUARD_Josselin/obj/Debug/TP1_DRUARD_Josselin.csproj.CoreCompileInputs.cache
+/Users/druardjosselin/Desktop/TP1_DRUARD_Josselin/TP1_DRUARD_Josselin/obj/Debug/TP1_DRUARD_Josselin.exe
+/Users/druardjosselin/Desktop/TP1_DRUARD_Josselin/TP1_DRUARD_Josselin/obj/Debug/TP1_DRUARD_Josselin.pdb

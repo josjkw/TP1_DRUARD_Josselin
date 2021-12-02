@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B5605BFE-46AF-402C-A46A-85C8B4C65599}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP1__DRUARD__Josselin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP1_DRUARD_Josselin/Exercices/Mult_Tables.cs">
+    <Files>
+      <File FileName="TP1_DRUARD_Josselin/Program.cs" Line="22" Column="2" />
+      <File FileName="TP1_DRUARD_Josselin/Exercices/Rectangle.cs" Line="9" Column="24" />
+      <File FileName="TP1_DRUARD_Josselin/Exercices/Try_Catch.cs" Line="10" Column="26" />
+      <File FileName="TP1_DRUARD_Josselin/Exercices/More_Math.cs" Line="27" Column="21" />
+      <File FileName="TP1_DRUARD_Josselin/Exercices/XTree.cs" Line="29" Column="17" />
+      <File FileName="TP1_DRUARD_Josselin/Exercices/Mult_Tables.cs" Line="8" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP1_DRUARD_Josselin" expanded="True">
+            <Node name="TP1_DRUARD_Josselin" expanded="True">
+              <Node name="Exercices" expanded="True">
+                <Node name="Mult_Tables.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
